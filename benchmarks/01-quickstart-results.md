@@ -4,8 +4,8 @@ Settings: `n_threads=12`, `n_ctx=2048`, `n_batch=512`, `n_gpu_layers=99`.
 
 | Model | Load (ms) | TTFT P50/P95 (ms) | TPOT P50/P95 (ms) | E2E P50/P95/P99 (ms) | Decode rate (tok/s) |
 |---|---:|---:|---:|---:|---:|
-| qwen2.5-1.5b-instruct-q4_k_m.gguf | 1560 | 135 / 173 | 63.8 / 65.4 | 4154 / 4215 / 4227 | 15.7 |
-| qwen2.5-1.5b-instruct-q2_k.gguf | 522 | 170 / 210 | 43.1 / 43.4 | 2854 / 2937 / 2947 | 23.2 |
+| qwen2.5-1.5b-instruct-q4_k_m.gguf | 1706 | 169 / 228 | 67.2 / 76.4 | 4307 / 4890 / 4932 | 14.9 |
+| qwen2.5-1.5b-instruct-q2_k.gguf | 752 | 219 / 234 | 47.8 / 56.4 | 3231 / 3777 / 3853 | 20.9 |
 
 ## Observations
 
