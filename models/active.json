@@ -1,0 +1,6 @@
+{
+  "tier": "Qwen2.5-1.5B-Instruct",
+  "repo_id": "Qwen/Qwen2.5-1.5B-Instruct-GGUF",
+  "primary_model": "F:\\AITC\\Track2\\Day20\\Day20-Track2-ModelServing-Lab\\models\\qwen2.5-1.5b-instruct-q4_k_m.gguf",
+  "compare_model": "F:\\AITC\\Track2\\Day20\\Day20-Track2-ModelServing-Lab\\models\\qwen2.5-1.5b-instruct-q2_k.gguf"
+}
